@@ -1,0 +1,4 @@
+<resources>
+    <bool name="isLand">false</bool>
+    <bool name="isTablet">false</bool>
+</resources>
